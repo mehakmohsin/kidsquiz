@@ -1,0 +1,49 @@
+/**
+ * ============================
+ * Dashboard Menu css
+ * ============================
+**/
+.wqt-dashboard-wrapper .panel-heading, 
+.wqt-dashboard-wrapper .wqt-show-users .panel-heading{
+	font-size: 22px;
+}
+.wqt-dashboard-wrapper .wqt-show-users .wqt-quiz-form-stat ul{
+	text-align: center;
+}
+.wqt-quiz-form-stat ul {
+	display: -webkit-box;
+}
+.wqt-quiz-form-stat ul > div> li > h5 {
+	font-weight: bold
+    color:white !important;
+}
+.wqt-quiz-form-stat ul > div >  li > h5 > span {
+	border-radius: 13px !important;
+	font-size: 13px !important;
+    display: table !important;
+    margin: 0px auto !important;
+    width: 30%;
+    font-size: 21px !important;
+    margin-top: 6px !important;
+}
+.wqt-table-stat tr:nth-child(1) {
+    background: #5bc0de !important;
+    color: white !important;
+}
+
+.wqt-table-stat tr:nth-child(even) {
+    background: #5bc0de14;
+}
+.wqt-table-stat tr:nth-child(odd) {
+    background: white;
+}
+.panel-body{
+    background-image: linear-gradient(to right, #5bc0de0f , #5bc0de33);
+}
+.panel-heading{
+    background: #17b5ca !important;
+    color: white !important;
+}
+.quiz-form_style  {
+    font-weight: 500;
+}

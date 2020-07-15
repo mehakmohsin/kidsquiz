@@ -1,0 +1,159 @@
+.theme_info_wrapper p span {
+	margin-left: 30px;
+}
+
+.info-tab-content {
+	margin: 50px 0;
+}
+
+.theme_info_left {
+	float: left;
+	margin-right: 4%;
+	width: 39%;
+}
+
+.theme_info_right {
+	float: left;
+	width: 57%;
+}
+
+.theme_info_right img {
+	width: 100%;
+	box-shadow: 0 0 15px 0 rgba(0, 0, 0, .1);
+}
+
+.theme_info h3 {
+	margin-top: 0;
+	margin-bottom: 10px;
+	font-size: 17px;
+}
+
+.theme_info h4 {
+	margin-top: 0;
+	margin-bottom: 10px;
+	font-size: 17px;
+}
+
+.theme_info .theme_link {
+	margin-bottom: 30px;
+}
+
+.clearfix:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	content: ".";
+}
+
+.clearfix {
+	display: inline-block;
+}
+
+.clearfix {
+	display: block;
+}
+
+@media screen and (max-width: 782px) {
+	.theme_info_left {
+		margin-right: 0;
+		width: 100%;
+	}
+
+	.theme_info_right {
+		width: 100%;
+	}
+}
+
+.theme-action-count {
+	z-index: 26;
+	display: inline-block;
+	margin: 3px 0 0 5px;
+	padding: 0 6px;
+	border-radius: 10px;
+	background-color: #d54e21;
+	color: #fff;
+	vertical-align: top;
+	font-weight: 600;
+	font-size: 9px;
+	line-height: 17px;
+}
+
+.action-required {
+	position: relative;
+	margin-bottom: 15px;
+	padding: 10px 25px 5px;
+	border-left: 3px solid #f8800c;
+	background: #fff;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+}
+
+.action-required h3 {
+	margin-top: 10px;
+}
+
+.action-required .dismiss {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	color: #d54e21;
+	text-decoration: none;
+}
+
+.theme_info_boxed {
+	padding: 20px 30px;
+	background: #fff;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+	text-align: center;
+}
+
+.demo-import-boxed {
+	position: relative;
+	overflow: auto;
+	margin-bottom: 25px;
+	padding: 0 12px;
+	max-width: 1050px;
+	border-left: 4px solid #0085ba;
+	background: #fff none repeat scroll 0 0;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+	font-size: 14px;
+	line-height: 2.1em;
+}
+
+.recommend-plugins > div:first-child {
+	border: none;
+}
+
+.recommend-plugins > h3 {
+	margin-bottom: 20px;
+}
+
+.rcp::after {
+	display: block;
+	clear: both;
+	content: "";
+}
+
+.rcp {
+	margin-right: -25px;
+	margin-left: -25px;
+	padding: 20px 25px 10px;
+	border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+.rcp h4 {
+	margin: 0;
+}
+
+.rcp a {
+	text-decoration: none;
+}
+
+.rcp .action-btn {
+	display: inline-block;
+}
+
+.rcp .plugin-detail {
+	margin-right: 10px;
+	margin-left: 10px;
+}

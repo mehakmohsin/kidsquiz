@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-02 19:47+0500\n"
+"PO-Revision-Date: 2019-01-02 19:53+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: inc/admin.php:17
+#, fuzzy
+msgid "Enter Quiz Name"
+msgstr "输入测验名称"
+
+#: inc/admin.php:27
+#, fuzzy
+msgid "Wordpress Simple Quiz"
+msgstr "wordpress 简单测验"
+
+#: inc/admin.php:27
+#, fuzzy
+msgid "WP Simple Quiz"
+msgstr "wp 简单测验"
+
+#: inc/admin.php:28
+msgid "Quiz Result"
+msgstr "测验结果"
+
+#: inc/admin.php:28 inc/cpt.php:32
+msgid "Result"
+msgstr "结果"
+
+#: inc/admin.php:36 inc/classes/class.admin.php:101
+msgid "Shortcode"
+msgstr "短代码"
+
+#: inc/admin.php:37 templates/admin/dashboard.php:53
+#, fuzzy
+msgid "Total Questions"
+msgstr "总问题"
+
+#: inc/admin.php:38 inc/helpers.php:294 templates/admin/dashboard.php:55
+#: templates/admin/quiz-result.php:74
+msgid "Total Marks"
+msgstr "总分"
+
+#: inc/admin.php:39 templates/admin/quiz-form-settings.php:97
+#, fuzzy
+msgid "Answer Selection"
+msgstr "回答选择"
+
+#: inc/admin.php:40 templates/admin/quiz-form-settings.php:65
+#, fuzzy
+msgid "Enable Time"
+msgstr "启用时间"
+
+#: inc/admin.php:41 templates/admin/quiz-form-settings.php:31
+#, fuzzy
+msgid "Show Result"
+msgstr "显示结果"
+
+#: inc/admin.php:42
+msgid "Date"
+msgstr "日期"
+
+#: inc/admin.php:51 inc/admin.php:52 inc/admin.php:53
+msgid "Pro Feature"
+msgstr "Pro特性"
+
+#: inc/admin.php:65 templates/admin/quiz-form-settings.php:104
+#, fuzzy
+msgid "Single Answers"
+msgstr "单个答案"
+
+#: inc/admin.php:67 templates/admin/quiz-form-settings.php:106
+msgid "Multiple Answers"
+msgstr "多个回答"
+
+#: inc/admin.php:76 templates/admin/quiz-form-id.php:12
+#, fuzzy, php-format
+msgid "[wqt-question id=\"%s\"]"
+msgstr "[wqt-问题 id = \" %s\"]"
+
+#: inc/admin.php:101
+#, fuzzy
+msgid "Marks & Percentage"
+msgstr "标记和百分比"
+
+#: inc/admin.php:102
+#, fuzzy
+msgid "Total Correct Question"
+msgstr "总正确的问题"
+
+#: inc/admin.php:103
+msgid "Time Elapsed"
+msgstr "时间流逝"
+
+#: inc/admin.php:104 inc/classes/class.admin.php:264
+#: templates/admin/dashboard.php:98
+msgid "User Info"
+msgstr "用户信息"
+
+#: inc/admin.php:105
+msgid "Form Name"
+msgstr "表单名称"
+
+#: inc/admin.php:115
+#, fuzzy
+msgid "PRO VERSION"
+msgstr "专业版本"
+
+#: inc/classes/class.admin.php:76 templates/admin/add-questions.php:120
+msgid "Add Questions"
+msgstr "添加问题"
+
+#: inc/classes/class.admin.php:127
+#, fuzzy
+msgid "Quiz Style"
+msgstr "测验风格"
+
+#: inc/classes/class.admin.php:153
+#, fuzzy
+msgid "Quiz messages"
+msgstr "测验消息"
+
+#: inc/classes/class.admin.php:174
+#, fuzzy
+msgid "Submit Members"
+msgstr "提交会员"
+
+#: inc/classes/class.admin.php:194
+msgid "Quiz Settings"
+msgstr "测验设置"
+
+#: inc/classes/class.admin.php:217
+#, fuzzy
+msgid "View Result"
+msgstr "查看结果"
+
+#: inc/classes/class.admin.php:243
+#, fuzzy
+msgid "Send Result Via Email"
+msgstr "通过电子邮件发送结果"
+
+#: inc/classes/class.admin.php:285
+#, fuzzy
+msgid "Print Result"
+msgstr "打印结果"
+
+#: inc/cpt.php:13 inc/cpt.php:14
+msgid "Quiz"
+msgstr "测验"
+
+#: inc/cpt.php:15
+msgid "Add New"
+msgstr "添加新的"
+
+#: inc/cpt.php:16
+msgid "Add New Quiz"
+msgstr "添加新测验"
+
+#: inc/cpt.php:17
+msgid "Edit Quiz"
+msgstr "编辑测验"
+
+#: inc/cpt.php:18
+#, fuzzy
+msgid "You did not create any Quiz yet"
+msgstr "你还没有创造任何测验"
+
+#: inc/cpt.php:19
+msgid "Search Quiz"
+msgstr "搜索测验"
+
+#: inc/cpt.php:31
+msgid "Quiz Results"
+msgstr "测验结果"
+
+#: inc/cpt.php:34
+msgid "Edit Result"
+msgstr "编辑结果"
+
+#: inc/cpt.php:35
+#, fuzzy
+msgid "You did not create any Result yet"
+msgstr "您还没有创建任何结果"
+
+#: inc/cpt.php:36
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: inc/helpers.php:258
+#, fuzzy
+msgid "Your quizz has been sent successfully"
+msgstr "您的测验已成功发送"
+
+#: inc/helpers.php:293
+#, fuzzy
+msgid "Obtaine Marks"
+msgstr "obtaine marks"
+
+#: inc/helpers.php:295
+msgid "Percentage"
+msgstr "百分比"
+
+#: inc/hooks.php:126
+#, fuzzy, php-format
+msgid ""
+"%s \n"
+" %s"
+msgstr "%% %s"
+
+#: inc/hooks.php:129
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/shortcodes.php:19
+#, fuzzy
+msgid "No form id found"
+msgstr "未找到窗体 id"
+
+#: inc/shortcodes.php:56
+#, fuzzy
+msgid "New information not saved. Do you wish to leave the page?"
+msgstr "未保存新信息。你想离开这一页吗？"
+
+#: templates/admin/add-questions.php:30 templates/admin/quiz-result.php:70
+msgid "Question"
+msgstr "问题"
+
+#: templates/admin/add-questions.php:33
+msgid "Remove"
+msgstr "移除"
+
+#: templates/admin/add-questions.php:36
+msgid "Slider"
+msgstr "滑块"
+
+#: templates/admin/add-questions.php:47
+#, fuzzy
+msgid "Enter Question"
+msgstr "输入问题"
+
+#: templates/admin/add-questions.php:55
+#, fuzzy
+msgid "Enter Total Question Marks"
+msgstr "输入总问号"
+
+#: templates/admin/add-questions.php:61
+#, fuzzy
+msgid "Question Description"
+msgstr "问题说明"
+
+#: templates/admin/add-questions.php:89
+msgid "Correct"
+msgstr "正确"
+
+#: templates/admin/add-questions.php:95
+msgid "Answer"
+msgstr "回答"
+
+#: templates/admin/dashboard.php:15
+#, fuzzy
+msgid "WP Simple Quiz Dashboard"
+msgstr "wp 简单测验仪表板"
+
+#: templates/admin/dashboard.php:21
+#, fuzzy
+msgid "Quiz Stat"
+msgstr "测验统计"
+
+#: templates/admin/dashboard.php:29
+#, fuzzy
+msgid "Quiz Form"
+msgstr "测验表格"
+
+#: templates/admin/dashboard.php:38
+#, fuzzy
+msgid "Attemp Quiz Users"
+msgstr "尝试测验用户"
+
+#: templates/admin/dashboard.php:52
+msgid "Quiz Name"
+msgstr "测验名称"
+
+#: templates/admin/dashboard.php:54
+#, fuzzy
+msgid "Submission User"
+msgstr "提交用户"
+
+#: templates/admin/dashboard.php:56
+#, fuzzy
+msgid "Visibilty"
+msgstr "维西比蒂"
+
+#: templates/admin/dashboard.php:67
+#, fuzzy
+msgid "Not assign"
+msgstr "未分配"
+
+#: templates/admin/dashboard.php:89
+#, fuzzy
+msgid "Result Stat"
+msgstr "结果统计"
+
+#: templates/admin/dashboard.php:96
+#, fuzzy
+msgid "Members Name"
+msgstr "会员名称"
+
+#: templates/admin/dashboard.php:97
+#, fuzzy
+msgid "Submitted Quiz"
+msgstr "已提交的测验"
+
+#: templates/admin/dashboard.php:99
+msgid "Submitted Date"
+msgstr "提交日期"
+
+#: templates/admin/quiz-form-alert.php:27
+msgid "Done"
+msgstr "完成"
+
+#: templates/admin/quiz-form-alert.php:35 templates/admin/quiz-form.php:54
+#, fuzzy
+msgid "Message:"
+msgstr "插入错误消息进行验证。"
+
+#: templates/admin/quiz-form-settings.php:32
+#, fuzzy
+msgid "You can show the result after submit the quiz for member"
+msgstr "您可以在提交成员的测验后显示结果"
+
+#: templates/admin/quiz-form-settings.php:40
+#: templates/admin/quiz-form-settings.php:57
+#: templates/admin/quiz-form-settings.php:74
+msgid "Yes"
+msgstr "是"
+
+#: templates/admin/quiz-form-settings.php:44
+#: templates/admin/quiz-form-settings.php:61
+#: templates/admin/quiz-form-settings.php:78
+msgid "No"
+msgstr "否"
+
+#: templates/admin/quiz-form-settings.php:48
+#, fuzzy
+msgid "Show Notice Field"
+msgstr "显示通知字段"
+
+#: templates/admin/quiz-form-settings.php:49
+#, fuzzy
+msgid "Show notice field on frontend user write notice for admin"
+msgstr "在前端用户写管理员通知栏上显示通知字段"
+
+#: templates/admin/quiz-form-settings.php:66
+#, fuzzy
+msgid "You can allow the time for each question"
+msgstr "您可以为每个问题留出时间"
+
+#: templates/admin/quiz-form-settings.php:82
+msgid "Time Limit"
+msgstr "时间限制"
+
+#: templates/admin/quiz-form-settings.php:83
+#, fuzzy
+msgid "Enter the time limit in seconds for each question"
+msgstr "输入每个问题的时间限制 (以秒为单位)"
+
+#: templates/admin/quiz-form-settings.php:89
+msgid "Redirect URL"
+msgstr "重定向网址"
+
+#: templates/admin/quiz-form-settings.php:90
+#, fuzzy
+msgid "Redirect url after  form submit"
+msgstr "在提交表格后重定向网址"
+
+#: templates/admin/quiz-form-settings.php:98
+#, fuzzy
+msgid "You can select multiple or single answer for each question"
+msgstr "您可以为每个问题选择多个或单个答案"
+
+#: templates/admin/quiz-form-settings.php:109
+#, fuzzy
+msgid "Quiz Visibility"
+msgstr "测验可见性"
+
+#: templates/admin/quiz-form-settings.php:110
+#, fuzzy
+msgid "This quiz show only selected role."
+msgstr "此测验仅显示选定的角色。"
+
+#: templates/admin/quiz-form-style.php:21
+msgid "Header Color"
+msgstr "标题颜色"
+
+#: templates/admin/quiz-form-style.php:22
+#, fuzzy
+msgid "Change the form header color"
+msgstr "更改窗体标题颜色"
+
+#: templates/admin/quiz-form-style.php:28
+msgid "Form Color"
+msgstr "表单颜色"
+
+#: templates/admin/quiz-form-style.php:29
+#, fuzzy
+msgid "Change the Question form background color"
+msgstr "更改 \"问题\" 窗体背景色"
+
+#: templates/admin/quiz-form-style.php:35
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: templates/admin/quiz-form-style.php:36
+#, fuzzy
+msgid "Change the button background color"
+msgstr "更改按钮背景色"
+
+#: templates/admin/quiz-form-style.php:42
+#, fuzzy
+msgid "Button Label Color"
+msgstr "按钮标签颜色"
+
+#: templates/admin/quiz-form-style.php:43
+#, fuzzy
+msgid "Change the button text color"
+msgstr "更改按钮文本颜色"
+
+#: templates/admin/quiz-form-style.php:49
+#, fuzzy
+msgid "Select Answer Color"
+msgstr "选择应答颜色"
+
+#: templates/admin/quiz-form-style.php:50
+#, fuzzy
+msgid "Change the selected answer color"
+msgstr "更改所选答案颜色"
+
+#: templates/admin/quiz-form-style.php:57
+msgid "Form Width"
+msgstr "表单宽度"
+
+#: templates/admin/quiz-form-style.php:58
+#, fuzzy
+msgid "change the form width "
+msgstr "更改窗体宽度"
+
+#: templates/admin/quiz-form-style.php:65
+#, fuzzy
+msgid "Question Label Size"
+msgstr "问题标签大小"
+
+#: templates/admin/quiz-form-style.php:66
+#, fuzzy
+msgid "Select font size for questions"
+msgstr "为问题选择字体大小"
+
+#: templates/admin/quiz-form.php:44 templates/admin/user-info.php:16
+msgid "User Name:"
+msgstr "用户名："
+
+#: templates/admin/quiz-form.php:48 templates/admin/user-info.php:19
+#, fuzzy
+msgid "User Email:"
+msgstr "新用户邮箱"
+
+#: templates/admin/quiz-ins-settings.php:14
+#, fuzzy
+msgid "Instruction Before Quiz"
+msgstr "测验前的说明"
+
+#: templates/admin/quiz-ins-settings.php:20
+#, fuzzy
+msgid "Write the instruction before quiz for member"
+msgstr "在为会员进行测验前编写说明"
+
+#: templates/admin/quiz-ins-settings.php:23
+#, fuzzy
+msgid "Message on Complete Quiz"
+msgstr "完整测验的消息"
+
+#: templates/admin/quiz-ins-settings.php:29
+#, fuzzy
+msgid "Message show when all questions completed"
+msgstr "所有问题完成时显示消息"
+
+#: templates/admin/quiz-ins-settings.php:32
+msgid "Submit Message"
+msgstr "提交消息"
+
+#: templates/admin/quiz-ins-settings.php:38
+#, fuzzy
+msgid "Message show when he submit information after quiz"
+msgstr "当他在测验后提交信息时显示消息"
+
+#: templates/admin/quiz-result-email.php:17
+msgid "Email Message"
+msgstr "邮件内容"
+
+#: templates/admin/quiz-result-email.php:18
+#, fuzzy
+msgid "send the email to user"
+msgstr "将电子邮件发送给用户"
+
+#: templates/admin/quiz-result-email.php:25
+#, fuzzy
+msgid ""
+"You also send using these vars Quiz result: %OBTAINED_MARKS%, %TOTAL_MARKS%, "
+"%PERCENTAGE%, %RESULT_DATE%"
+msgstr ""
+"您还发送使用这些 vars 测验结果:% 已获得的百分比 _ marks,% 总计 _ marks%,%%%%"
+
+#: templates/admin/quiz-result-email.php:30
+msgid "Email Subject"
+msgstr "邮件主题"
+
+#: templates/admin/quiz-result-email.php:31
+#, fuzzy
+msgid "Emails subject to send in emails"
+msgstr "可能发送电子邮件的电子邮件"
+
+#: templates/admin/quiz-result-email.php:38
+#, fuzzy
+msgid "Enter Emails"
+msgstr "输入电子邮件"
+
+#: templates/admin/quiz-result-email.php:39
+#, fuzzy
+msgid "enter multiple email separated by commas"
+msgstr "输入多个以逗号分隔的电子邮件"
+
+#: templates/admin/quiz-result-email.php:48
+msgid "Send"
+msgstr "发送"
+
+#: templates/admin/quiz-result.php:44
+#, fuzzy
+msgid "Total Marks : "
+msgstr "总标记:"
+
+#: templates/admin/quiz-result.php:47
+#, fuzzy
+msgid "Obtain Marks : "
+msgstr "获取标记:"
+
+#: templates/admin/quiz-result.php:50
+#, fuzzy
+msgid "Percentage : "
+msgstr "百分比："
+
+#: templates/admin/quiz-result.php:56
+#, fuzzy
+msgid "Time Elapsed : "
+msgstr "经过的时间:"
+
+#: templates/admin/quiz-result.php:62
+#, fuzzy
+msgid "Total Correct Question : "
+msgstr "总正确的问题:"
+
+#: templates/admin/quiz-result.php:71
+#, fuzzy
+msgid "User Selected Answer"
+msgstr "用户选择的答案"
+
+#: templates/admin/quiz-result.php:72
+#, fuzzy
+msgid "Correct Answers"
+msgstr "正确的答案"
+
+#: templates/admin/quiz-result.php:73
+#, fuzzy
+msgid "Marks Obtains"
+msgstr "获得的标记"
+
+#: templates/admin/quiz-result.php:76
+msgid "Time Taken"
+msgstr "实际时间"
+
+#: templates/admin/quiz-result.php:129
+#, fuzzy
+msgid "Grand Total"
+msgstr "總計:"
+
+#: templates/admin/quiz-result.php:140
+#, fuzzy
+msgid "User Message:"
+msgstr "用户留言:"
+
+#: templates/shortcodes/quiz-rander.php:85
+#, fuzzy
+msgid "Total Questions:"
+msgstr "总问题:"
+
+#: templates/shortcodes/quiz-rander.php:89
+msgid "Start"
+msgstr "开始"
+
+#: templates/shortcodes/quiz-rander.php:137
+#, fuzzy, php-format
+msgid "Please select %d answer"
+msgstr "请选择% d 答案"
+
+#: templates/shortcodes/quiz-rander.php:161
+msgid "Next"
+msgstr "下一个"
+
+#: templates/shortcodes/quiz-rander.php:166
+#, php-format
+msgid "Question %d of %d"
+msgstr "问题 %d of %d"
+
+#: templates/shortcodes/quiz-rander.php:177
+msgid "Time: "
+msgstr "时间: "
+
+#: templates/shortcodes/quiz-rander.php:178
+#, fuzzy
+msgid "0:00"
+msgstr "0:00"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "N-Media WP Simple Quiz"
+msgstr "n-media wp 简单测验"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "http://najeebmedia.com/"
+msgstr "http://najeebmedia.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Simple Wordpress Plugin to create Multiple Choice Questions."
+msgstr "简单的 wordpress 插件, 以创建多个选择的问题。"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Najeeb Ahmad"
+msgstr "najeeb ahmad"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://www.najeebmedia.com/"
+msgstr "http://www.najeebmedia.com/"

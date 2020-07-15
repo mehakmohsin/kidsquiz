@@ -1,0 +1,43 @@
+/*Cutomizer CSS*/
+#accordion-section-child_pro h3.accordion-section-title{
+	background: #f8504b !important;
+	color:#fff !important;
+	
+}
+#accordion-section-child_pro h3:hover.accordion-section-title:hover{
+	background: #eee !important;
+	color:#555 !important;
+	
+}
+.child-content{
+float:none;
+margin-left: 20px;
+}
+.pro-btn-success {
+  color: #fff;
+  background-color: #f8504b;
+  border-color: #4cae4c;
+}
+.pro-btn-success:hover { color: #fff;
+  background-color: #5cb85c; }
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-decoration: none !important;
+}
+.child-content a:hover {color:#fff;}

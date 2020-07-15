@@ -1,0 +1,401 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: childcare\n"
+"POT-Creation-Date: 2017-11-08 13:21+0530\n"
+"PO-Revision-Date: 2017-04-28 23:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9 ../404.php:11
+msgid "4"
+msgstr ""
+
+#: ../404.php:13
+msgid "OOPS PAGE NOT-FOUND!"
+msgstr ""
+
+#: ../404.php:14
+msgid "THE LINK MIGHT BE CORRUPTED"
+msgstr ""
+
+#: ../404.php:15
+msgid "Your can search what your interested in:"
+msgstr ""
+
+#: ../404.php:19
+msgid "or"
+msgstr ""
+
+#: ../404.php:20
+msgid "GO TO HOMEPAGE"
+msgstr ""
+
+#: ../childcare_breadcrumbs.php:31
+msgid "Home/"
+msgstr ""
+
+#: ../childcare_breadcrumbs.php:34
+msgid "Home /"
+msgstr ""
+
+#: ../childcare_breadcrumbs.php:37
+msgid "Archive category"
+msgstr ""
+
+#: ../childcare_breadcrumbs.php:82
+msgid "404 Error"
+msgstr ""
+
+#: ../childcare_breadcrumbs.php:95
+#: ../core-functions/menu/default_menu_walker.php:22
+msgid "Home"
+msgstr ""
+
+#: ../comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:7
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:7
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:17
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:18
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:19
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:23
+msgid "~~||~~Comments Are Closed~~||~~"
+msgstr ""
+
+#: ../comments.php:28
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:28
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:28
+msgid "to post a comment"
+msgstr ""
+
+#: ../comments.php:41
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:43
+msgid "SEND COMMENT"
+msgstr ""
+
+#: ../comments.php:46
+msgid "LEAVE COMMENT"
+msgstr ""
+
+#: ../content-post.php:30 ../page.php:12 ../search.php:37 ../single.php:12
+msgid "By - "
+msgstr ""
+
+#: ../content-post.php:37
+msgid "More"
+msgstr ""
+
+#: ../content-post.php:41 ../search.php:44
+msgid "Read More"
+msgstr ""
+
+#: ../core-functions/comment-section/comment-function.php:9
+msgid "REPLY"
+msgstr ""
+
+#: ../core-functions/comment-section/comment-function.php:17
+msgid "at"
+msgstr ""
+
+#: ../core-functions/comment-section/comment-function.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:14
+msgid "Theme Options Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:22
+msgid "Footer Customization"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:38
+msgid "Hide Footer Bottom Section"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:46
+#: ../theme_default_data.php:7
+msgid "PO Box 97845 Baker street 567"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:52
+msgid "Footer Logo Contact Address One"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:59
+#: ../theme_default_data.php:8
+msgid "Los Angeles, California, US"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:65
+msgid "Footer Logo Contact Address two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:73
+#: ../theme_default_data.php:9
+msgid "E-mail"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:79
+msgid "Footer Logo E-mail Title"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:86
+#: ../theme_default_data.php:10
+msgid "info@example.com"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:92
+msgid "Footer Logo E-mail"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:100
+#: ../theme_default_data.php:11
+msgid "Phone"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:106
+msgid "Footer Logo Phone Title"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:114
+#: ../theme_default_data.php:12
+msgid "0045(2)660 476 6677"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:120
+msgid "Footer Logo Phone"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:128
+msgid "@ 2017 childcare-Care WordPress Theme"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:134
+msgid "Footer Customization Text"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:148
+msgid "Footer Customization Developed By"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:162
+msgid "Theme Developed By Name"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:176
+msgid "Theme Developed By Link"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:182
+#: ../core-functions/customizer/customizer-header.php:404
+#: ../core-functions/customizer/customizer-header.php:425
+msgid "Upgrade to childcare Premium"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:193
+msgid "childcare Premium"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:204
+msgid "Social Link "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:224
+msgid "Show Social icons"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:246
+msgid "Facebook URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:263
+#: ../core-functions/customizer/customizer-header.php:301
+#: ../core-functions/customizer/customizer-header.php:337
+#: ../core-functions/customizer/customizer-header.php:373
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:283
+msgid "Twitter URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:319
+msgid "Linkdin URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:355
+msgid "Google URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:407
+msgid "childcare Premium - Features"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:409
+msgid "One Year Free Support "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:410
+msgid "Responsive Design"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:411
+msgid "More than 10 Templates"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:412
+msgid "3 Types of Portfolio Templates"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:413
+msgid "Awesome Team Member Template"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:414
+msgid "9 types Themes Colours Scheme"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:415
+msgid "Patterns Background"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:416
+msgid "WPML Compatible"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:417
+msgid "Ultimate Portfolio layout with Taxonomy Tab effect"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:418
+msgid "Translation Ready"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:419
+msgid "Easy Customization With wp Customizer"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:420
+msgid "Google Fonts"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:427
+msgid "Enjoying With childcare"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:430
+#, php-format
+msgid ""
+"If you Like our Products , Please do Rate us on %1$1sWordPress.org%2$2s?  "
+"We'd really appreciate it!"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:7 ../sidebar.php:5
+msgid "Sidebar Data"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:9 ../sidebar.php:7
+msgid "The primary widget area"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:18
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:20
+msgid "footer widget area"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:9
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:38 ../single.php:13 ../single.php:47
+msgid ", "
+msgstr ""
+
+#: ../search.php:48
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:50
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: ../single.php:49
+msgid ""
+"No description.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlease update your profile."
+msgstr ""
+
+#: ../template-tags.php:31
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: ../template-tags.php:35
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: ../template-tags.php:67
+msgid "Calendar"
+msgstr ""
+
+#: ../theme_default_data.php:13
+msgid " @ 2017 childcare-Care WordPress Theme."
+msgstr ""

@@ -1,0 +1,356 @@
+@media only screen and (min-width: 960px) and (max-width: 1200px){
+.carousel-caption {
+  top:5% !important;
+}
+.carousel-caption h1{
+ font-size:54px;
+ margin:5px 0 !important;
+}
+.carousel-caption p{
+ font-size:20px;
+ line-height:36px;
+}
+.main-btn {
+    font-size: 16px;
+    padding:10px 20px;
+    margin:5px 10px;
+}
+
+
+}
+   
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+.navbar-brand > img {
+    margin-top: -27px !important;
+	margin-bottom:20px;
+    width: 180px;
+}	
+h1.pagetitle {
+    text-align:left!important;
+}
+.carousel-caption {
+  top:4% !important;
+}
+.carousel-caption h1{
+ font-size:44px;
+ margin:5px 0 !important;
+}
+.carousel-caption p{
+ font-size:22px;
+ line-height:36px;
+}
+.main-btn {
+    font-size: 14px;
+    padding:8px 16px;
+    margin:4px 8px;
+}
+ ul.contact-top{
+  float:none !important;
+  text-align:center !important;
+}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+/*---Logo-----*/
+.navbar-brand {
+  float:none !important;
+} 
+h1.pagetitle {
+    text-align:left!important;
+}
+.colam-user-img{
+	float:none;
+}
+.colam-user-name{
+	padding-left:20px;
+	padding-bottom:20px;
+}
+.navbar-brand img{
+  display:block;
+  margin:0 auto !important;
+  text-align:center;
+}
+ .carousel-caption {
+  top:4% !important;
+}
+.carousel-caption h1{
+ font-size:30px;
+ margin:4px 0 !important;
+}
+.carousel-caption p{
+ font-size:14px;
+ line-height:24px;
+}
+.main-btn {
+    font-size: 12px;
+    padding:6px 14px;
+    margin:4px 6px;
+}
+.navbar-toggle {
+    color: #0f0f16;
+	line-height:24px;
+	text-transform:uppercase;
+    display: block;
+    float: none;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 13px auto 20px;
+    border-radius: 2px;
+    padding: 10px 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+.top-breadcrumb {
+    text-align:center !important;
+}
+.site-logo h2{
+    text-align:center !important;
+} 
+ul.contact-top{
+  float:none !important;
+  text-align:center !important;
+}
+.pagetitle{
+  text-align:center;
+} 
+/*------Main Slider-----------*/
+.carousel-caption h1 {
+    font-size:40px !important;
+    margin-bottom:10px !important;
+}
+.navbar-header{
+	margin-bottom:30px!important;
+}
+.home-gallery-col{
+  margin:50px 0 !important;
+}
+.introduce h1 {
+   font-size:30px!important;
+}
+.introduce p {
+    font-size: 30px!important;
+}
+}
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+.navbar-brand {
+  float:none !important;
+} 
+.event-colm {
+    float:none !important;
+}
+.colam-user-img{
+	float:none;
+}
+.colam-user-name{
+	padding-left:20px;
+	padding-bottom:20px;
+}
+.event-cont-right{
+	padding-left:20px;
+}
+.navbar-brand img{
+  display:block;
+  margin:0 auto !important;
+  text-align:center;
+}
+.carousel-caption {
+  top:0% !important;
+}
+
+.carousel-caption h1{
+ font-size:22px;
+ margin:4px 0 !important;
+}
+.carousel-caption p{
+ font-size:12px;
+ line-height:20px;
+}
+.main-btn {
+    font-size: 10px;
+    padding:4px 10px;
+    margin:3px 6px;
+}
+/* Comment Section */
+.comment_box .media-body {
+	float: left;
+	width: 100%;
+}
+.navbar-toggle {
+    display: block;
+    float: none;
+    font-size: 12px;
+    margin: 13px auto 20px;
+    padding: 10px 14px;
+}
+.top-breadcrumb {
+    text-align:center !important;
+}
+.site-logo h2{
+    text-align:center !important;
+} 
+
+ul.contact-top{
+  float:none !important;
+  text-align:center !important;
+}
+.pagetitle{
+  text-align:center;
+}
+.navbar-brand {
+	position: relative !important;
+    width:auto !important;
+    text-align: center;
+}
+/*------Main Slider-----------*/
+.carousel-caption h1 {
+    font-size:20px !important;
+    margin-bottom:5px !important;
+}
+
+.navbar-header{
+	margin-bottom:40px!important;
+}
+.home-gallery-col{
+  margin:10px 0 !important;
+}
+.introduce h1 {
+   font-size:25px!important;
+}
+.introduce p {
+    font-size: 25px!important;
+}
+
+}
+/*------chider-home-page-tab-----------*/
+@media only screen and (min-width: 200px) and (max-width: 320px) { 
+.comment-post li {
+	width: 70px;
+    height: 55px;
+    padding-top:8px;
+}
+}
+@media only screen and (min-width: 321px) and (max-width: 354px) { 
+.comment-post li {
+	width: 78px;
+    height: 60px;
+    padding-top: 10px;
+}
+}
+@media only screen and (min-width: 355px) and (max-width: 510px) { 
+.comment-post li {
+	width: 90px;
+    height: 60px;
+    padding-top: 10px;
+}
+}
+@media only screen and (min-width: 511px) and (max-width: 599px) { 
+.comment-post li {
+   width: 142px;
+    height: 100px;
+    padding-top: 30px;
+	font-size:16px;
+}
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) { 
+.comment-post li {
+   width: 172px;
+    height: 100px;
+    padding-top: 30px;
+	font-size:18px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 990px) { 
+.comment-post li {
+	width: 105px;
+    height: 65px;
+    padding-top: 12px;
+}
+}
+@media only screen and (min-width: 991px) and (max-width: 1200px) { 
+.comment-post li {
+	width: 90px;
+    height: 70px;
+    padding-top: 14px;
+}
+}
+
+/*------chider-home-page-tab-----------*/
+
+@media only screen and (min-width: 221px) and (max-width: 300px) { 
+.gallery-tabs li a{
+	    padding: 3px 6px;
+		font-size:8px;	
+}
+.pre-sclass h1 {
+	font-size:20px;	
+}
+}
+@media only screen and (min-width: 301px) and (max-width: 400px) { 
+.gallery-tabs li a{
+	    padding: 3px 8px!important;
+		font-size:8px!important;	
+}
+.pre-sclass h1 {
+	font-size:24px!important;	
+}
+}
+@media only screen and (min-width: 401px) and (max-width: 500px) { 
+.gallery-tabs li a{
+	    padding: 6px 10px!important;
+		font-size:12px!important;	
+}
+.pre-sclass h1 {
+	font-size:30px!important;	
+}
+}
+@media only screen and (min-width: 501px) and (max-width: 600px) { 
+.gallery-tabs li a{
+	    padding: 8px 18px!important;
+		font-size:14px!important;	
+}
+.pre-sclass h1 {
+	font-size:30px!important;	
+}
+}
+@media only screen and (min-width: 601px) and (max-width: 700px) { 
+.gallery-tabs li a{
+	    padding: 10px 24px!important;
+		font-size:16px!important;	
+}
+.pre-sclass h1 {
+	font-size:40px!important;	
+}
+}
+
+@media only screen and (min-width: 701px) and (max-width: 900px) { 
+.gallery-tabs li a{
+	    padding: 10px 31px!important;
+		font-size:18px!important;	
+}
+
+}
+@media only screen and (min-width: 901px) and (max-width: 1000px) { 
+.gallery-tabs li a{
+	    padding: 10px 38px!important;
+		font-size:18px!important;	
+}
+}
+@media only screen and (min-width: 1001px) and (max-width: 1200px) { 
+.gallery-tabs li a{
+	    padding: 12px 58px!important;
+		font-size:20px!important;	
+}
+}
+@media only screen and (min-width: 990px) and (max-width: 1200px){
+.member-tabs li a {
+    display: inline-block;
+    padding: 16px 40px;
+    font-size: 18px;
+}
+}
+@media only screen and (min-width: 200px) and (max-width: 994px) {
+.smart-gep{margin-top:80px!important;}
+
+
+}

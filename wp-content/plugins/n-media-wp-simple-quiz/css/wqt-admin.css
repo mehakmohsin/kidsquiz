@@ -1,0 +1,482 @@
+/**
+ * ============================
+ * admin page releated css
+ * ============================
+**/
+
+/*custom checkbox design add-question file*/
+
+/*====================================*/
+
+/*This css apply on Question metabox*/
+
+input:focus {
+  background-color: #e7e4ea;
+  box-shadow: -1px -1px 1px #000;
+}
+
+.inner-crad {
+  max-width: 100%;
+  background: #eceaea83;
+}
+
+.inner-crad:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  background: linear-gradient(to right, #eeede98c, rgba(227, 227, 221, 0.84), #fffefd);
+
+}
+
+.check-control {
+  margin: 0 auto;
+  margin-top: 29px;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.cross-btn-style {
+  margin: auto 0;
+  margin-top: 20px;
+  font-size: 26px;
+  color: red;
+  cursor: pointer;
+}
+
+.add-answer {
+  background-color: #ad9c9c;
+}
+
+.marks-style {
+  margin: 0px 0px 0px 269px;
+  width: 30%;
+}
+
+/*End the css apply on Question metabox and add-question file*/
+
+/*This css apply on quiz-result file*/
+
+/*=====================================*/
+
+.table-border-color {
+  background-color: #92d04ac7;
+}
+
+.display-ul {
+  display: inline-flex;
+  margin-left: -21px;
+  margin-top: 6px;
+
+  text-align: center;
+}
+
+#wqt_result .table-bordered {
+  -webkit-box-shadow: 3px 5px 4px -2px rgba(20, 99, 29, 0.53) !important;
+  -moz-box-shadow: 3px 5px 4px -2px rgba(20, 99, 29, 0.53) !important;
+  box-shadow: 3px 5px 4px -2px rgba(164, 196, 167, 0.53)!important;
+}
+
+.Design-li {
+  margin-left: 24px;
+  background-color: #ffffff !important;
+  display: block;
+  font-weight: 700;
+  font-size: 12px;
+  border-bottom: 2px solid #a7d76e;
+}
+
+.email_alert {
+  padding: 7px;
+  background-color: #dad4d496;
+  overflow: auto;
+}
+
+.email_alt_hide {
+  display: none;
+}
+
+.wqt-marks {
+  margin-top: -13px;
+  margin-left: 161px;
+  width: 58%;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.send_message_alert {
+  border-left: 6px solid #46b450;
+  padding: 5px;
+  font-size: 14px;
+  font-family: sans-serif;
+  background-color: #efd9d9;
+  width: 57%;
+  margin-left: 12px;
+  margin-top: -29px;
+}
+
+.btn-email-style {
+  cursor: pointer;
+  margin-top: 15px;
+  width: 13%;
+
+  margin-right: 1px;
+}
+
+.wqt-shortcode {
+  padding: 10px;
+  display: block;
+  text-align: center;
+  background-image: linear-gradient(to right, #f4f7db00, #efefea);
+  font-weight: bold;
+}
+
+/*End of css quiz-result file*/
+
+/*css for question style meta box/*/
+
+.wqt-label-color {
+  color: #3cad40;
+  cursor: pointer;
+}
+
+.wqt-quiz-design-wrapper label {
+  margin-top: 5px !important;
+  display: block;
+}
+
+.wqt-quiz-settings-wrapper label {
+  margin-top: 10px !important;
+  display: block;
+}
+
+.wqt-quiz-settings-wrapper>div {
+  margin-top: -37px;
+}
+
+.wqt-quiz-settings-wrapper>input {
+  display: -webkit-inline-box !important;
+}
+
+.wqt-student-wrapper label {
+  margin-top: 10px !important;
+  display: block;
+}
+
+.wqt-student-wrapper>div {
+  margin-top: -37px;
+}
+
+.wqt-student-wrapper>input {
+  display: -webkit-inline-box !important;
+}
+
+
+.wqt-email-design-wrapper textarea {
+  height: 66px;
+}
+
+div.wqt-email-design-wrapper>textarea,
+input {
+  margin-top: 5px !important;
+}
+
+.wqt_email_desc {
+  margin-top: 17px !important;
+  font-size: 12px
+}
+
+.wqt_time {
+  width: 100%;
+  height: 28px;
+}
+
+#wqt_shortcodes>h2,
+#wqt_questions_style>h2,
+#wqt_questions>h2,
+#wqt_questions_email>h2,
+#wqt_instruction_box>h2,
+#wqt_result>h2,
+#wqt_pie_charts>h2,
+#wqt_result_send>h2,
+#wqt_add_question_settings>h2,
+#wqt_submit_box>h2 {
+  background: white;
+  font-weight: 600;
+  color: #442827;
+}
+
+#wqt_questions_style,
+#wqt_questions,
+#wqt_questions_email,
+#wqt_instruction_box,
+#wqt_result,
+#wqt_pie_charts,
+#wqt_result_send,
+#wqt_add_question_settings,
+#wqt_submit_box {
+  background-image: linear-gradient(to right, #f4f7db00, #efefea);
+}
+
+/*
+ ** ADMIN PANEL CSS 
+ *************************************************************/
+
+/*----------------------------------------
+    1- Quiz Types Template CSS
+    2- Checkbox Design CSS
+    3- Quiz template CSS
+------------------------------------------**/
+
+/* 
+**========== 1- Quiz Types Template CSS =========== 
+*/
+
+.wqt-quiz-type-wrapper ul {
+  display: inline-flex;
+  margin-left: -6px;
+  margin-top: 6px;
+  width: 100%;
+  text-align: center;
+}
+
+.wqt-quiz-type-wrapper ul li {
+  margin-left: 13px;
+  background-color: #31322f87;
+  color: white;
+  display: block;
+  cursor: pointer;
+  width: 100%;
+  padding: 30px 25px !important;
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.wqt-quiz-type-wrapper .wqt-active-tab {
+  background-color: #4d20a4 !important;
+}
+
+/* 
+**========== 2- Checkbox Design CSS =========== 
+*/
+
+.wqt-correct-answr {
+  margin-top: 23px;
+}
+
+.wqt-correct-answr input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+
+.wqt-correct-answr input[type="checkbox"]+span {
+  /*font: 10pt sans-serif;*/
+  color: #000;
+}
+
+.wqt-correct-answr input[type="checkbox"]+span:before {
+  font: 16pt FontAwesome;
+  content: '\00f096';
+  display: inline-block;
+  width: 16pt;
+  padding: 2px 0 0 3px;
+  margin-right: 0.5em;
+}
+
+.wqt-correct-answr input[type="checkbox"]:checked+span:before {
+  content: '\00f046';
+}
+
+.wqt-correct-answr input[type="checkbox"]:focus+span:before {
+  outline: 1px dotted #aaa;
+}
+
+.wqt-correct-answr input[type="checkbox"]:disabled+span {
+  color: #999;
+}
+
+.wqt-correct-answr input[type="checkbox"]:not(:disabled)+span:hover:before {
+  text-shadow: 0 1px 2px #77F;
+}
+
+/* 
+**========== 3- Quiz template CSS =========== 
+*/
+
+.wqt-questions-section .card {
+  max-width: 100%;
+  background-color: #f4f4f4;
+}
+
+/*
+ ** Quiz Accordions Design 
+ *************************************************************/
+
+.wqt-accordion {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.wqt-accordion li {
+  margin: 0;
+  padding: 0;
+}
+
+.wqt-accordion li .wqt-acc-head {
+  cursor: pointer;
+}
+
+.wqt-accordion li .wqt-acc-head.active {
+  font-weight: bold;
+}
+
+#wqt-accordion-1.wqt-accordion li .wqt-acc-head {
+  margin: 20px 0;
+  border: 1px solid #DDD;
+  padding: 10px 30px 10px 10px;
+  line-height: normal;
+  position: relative;
+  font-weight: bold;
+}
+
+#wqt-accordion-1.wqt-accordion li .wqt-acc-head i {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  font-size: 20px;
+  color: #5cb85c;
+}
+
+.wqt-question-duplicate>i {
+  right: 66px !important;
+  top: 9px !important;
+}
+
+#wqt-accordion-1.wqt-accordion li .wqt-acc-panel {
+  margin-bottom: -20px;
+  border: 1px solid #DDD;
+  padding: 20px;
+  background: #FFF;
+  position: relative;
+  top: -21px;
+}
+
+.btn-default.btn-on.active {
+  background-color: #5BB75B !important;
+  color: white !important;
+}
+
+.btn-default.btn-off.active {
+  background-color: #DA4F49 !important;
+  color: white !important;
+}
+
+.wqt-result-email-info {
+  background: #f4f4f1;
+  padding: 6px;
+  border: 1px solid #e4dfdf;
+  border-radius: 9px;
+  margin-top: 6px;
+}
+
+.wqt-result-email-info>label {
+  font-weight: 500;
+}
+
+.wqt_email_btn {
+  margin-top: 16px !important;
+}
+
+.wqt-result-email-info>span {
+  font-weight: normal;
+}
+
+.wqt_result_form_alert {
+  padding: 8px;
+  width: 28%;
+  color: white;
+  margin-left: 22px;
+  display: none;
+}
+
+/* ==== css apply on columns wqt and result cpt ==== */
+
+.wqt-instruction-wrapper>label {
+  margin-top: 12px !important;
+  display: block;
+}
+
+/*apply css on wqt and wqt_result culumn*/
+
+tr.type-wqt>td {
+  padding-left: 35px;
+  font-weight: 500;
+}
+
+td.has-row-actions,
+td.column-user_info,
+td.column-form_name,
+td.column-quiz_id {
+  padding-left: 7px !important;
+}
+
+tr.type-wqt_result>td {
+  padding-left: 35px;
+  font-weight: 500;
+}
+
+/* css apply on submit member */
+
+.wqr_submit_member_check label {
+  margin-top: 10px;
+  display: inline-block;
+  margin-bottom: 7px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.wqr_submit_member_check {
+  padding: 1px;
+  background: #fffffd;
+  margin-top: 11px;
+}
+
+.wqr_submit_member_check>span {
+  float: right;
+  color: #03A9F4;
+  margin-top: 6px;
+  margin-right: 6px;
+  zoom: 1.4;
+}
+
+.wqr_submit_member_check:hover {
+  box-shadow: 0 20px 16px 0 rgba(214, 203, 203, 0.24), 0 17px 50px 0 rgba(200, 180, 180, 0.19);
+}
+
+.wqt-question-rm>i {
+  right: 40px !important;
+  top: 7px !important;
+}
+
+.new-ans-add {
+  margin-top: 23px;
+}
+
+.wqt-answers-section {
+  margin-top: 20px;
+}
+
+#piechart {
+  width: 320px;
+  height: 200px;
+}
+
+.wqt-email-subject {
+  margin-top: 20px;
+}
+
+.wqt-email-message {
+  font-weight: bold;
+}

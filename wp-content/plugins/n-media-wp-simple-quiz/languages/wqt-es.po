@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: N-Media WP Simple Quiz\n"
+"POT-Creation-Date: 2019-01-02 19:51+0500\n"
+"PO-Revision-Date: 2019-01-02 19:51+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-simple-quiz.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin.php:17
+#, fuzzy
+msgid "Enter Quiz Name"
+msgstr "Escriba el nombre del cuestionario"
+
+#: inc/admin.php:27
+#, fuzzy
+msgid "Wordpress Simple Quiz"
+msgstr "WordPress simple quiz"
+
+#: inc/admin.php:27
+#, fuzzy
+msgid "WP Simple Quiz"
+msgstr "WP simple quiz"
+
+#: inc/admin.php:28
+msgid "Quiz Result"
+msgstr "Resultado del examen"
+
+#: inc/admin.php:28 inc/cpt.php:32
+msgid "Result"
+msgstr "Resultado"
+
+#: inc/admin.php:36 inc/classes/class.admin.php:101
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/admin.php:37 templates/admin/dashboard.php:53
+msgid "Total Questions"
+msgstr "Preguntas Totales"
+
+#: inc/admin.php:38 inc/helpers.php:294 templates/admin/dashboard.php:55
+#: templates/admin/quiz-result.php:74
+msgid "Total Marks"
+msgstr "Calificaciones Totales"
+
+#: inc/admin.php:39 templates/admin/quiz-form-settings.php:97
+#, fuzzy
+msgid "Answer Selection"
+msgstr "Selección de respuestas"
+
+#: inc/admin.php:40 templates/admin/quiz-form-settings.php:65
+msgid "Enable Time"
+msgstr "Activar fecha"
+
+#: inc/admin.php:41 templates/admin/quiz-form-settings.php:31
+#, fuzzy
+msgid "Show Result"
+msgstr "Mostrar resultado"
+
+#: inc/admin.php:42
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/admin.php:51 inc/admin.php:52 inc/admin.php:53
+msgid "Pro Feature"
+msgstr "Función Pro"
+
+#: inc/admin.php:65 templates/admin/quiz-form-settings.php:104
+#, fuzzy
+msgid "Single Answers"
+msgstr "Respuestas individuales"
+
+#: inc/admin.php:67 templates/admin/quiz-form-settings.php:106
+#, fuzzy
+msgid "Multiple Answers"
+msgstr "Respuestas múltiples"
+
+#: inc/admin.php:76 templates/admin/quiz-form-id.php:12
+#, fuzzy, php-format
+msgid "[wqt-question id=\"%s\"]"
+msgstr "[Wqt-Question ID = \" %s\"]"
+
+#: inc/admin.php:101
+#, fuzzy
+msgid "Marks & Percentage"
+msgstr "Marcas y porcentaje"
+
+#: inc/admin.php:102
+#, fuzzy
+msgid "Total Correct Question"
+msgstr "Pregunta total correcta"
+
+#: inc/admin.php:103
+msgid "Time Elapsed"
+msgstr "Tiempo transcurrido"
+
+#: inc/admin.php:104 inc/classes/class.admin.php:264
+#: templates/admin/dashboard.php:98
+msgid "User Info"
+msgstr "Información del usuario"
+
+#: inc/admin.php:105
+msgid "Form Name"
+msgstr "Nombre del Formulario"
+
+#: inc/admin.php:115
+#, fuzzy
+msgid "PRO VERSION"
+msgstr "VERSIÓN PRO"
+
+#: inc/classes/class.admin.php:76 templates/admin/add-questions.php:120
+msgid "Add Questions"
+msgstr "Añadir preguntas"
+
+#: inc/classes/class.admin.php:127
+#, fuzzy
+msgid "Quiz Style"
+msgstr "Estilo de cuestionario"
+
+#: inc/classes/class.admin.php:153
+#, fuzzy
+msgid "Quiz messages"
+msgstr "Mensajes de prueba"
+
+#: inc/classes/class.admin.php:174
+#, fuzzy
+msgid "Submit Members"
+msgstr "Enviar miembros"
+
+#: inc/classes/class.admin.php:194
+msgid "Quiz Settings"
+msgstr "Ajustes del cuestionario"
+
+#: inc/classes/class.admin.php:217
+#, fuzzy
+msgid "View Result"
+msgstr "Ver resultado"
+
+#: inc/classes/class.admin.php:243
+#, fuzzy
+msgid "Send Result Via Email"
+msgstr "Enviar resultado por correo electrónico"
+
+#: inc/classes/class.admin.php:285
+#, fuzzy
+msgid "Print Result"
+msgstr "Imprimir resultado"
+
+#: inc/cpt.php:13 inc/cpt.php:14
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: inc/cpt.php:15
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: inc/cpt.php:16
+msgid "Add New Quiz"
+msgstr "Añadir Nuevo Examen"
+
+#: inc/cpt.php:17
+msgid "Edit Quiz"
+msgstr "Editar Cuestionario"
+
+#: inc/cpt.php:18
+#, fuzzy
+msgid "You did not create any Quiz yet"
+msgstr "No ha creado ningún cuestionario todavía"
+
+#: inc/cpt.php:19
+msgid "Search Quiz"
+msgstr "Buscar Quiz"
+
+#: inc/cpt.php:31
+msgid "Quiz Results"
+msgstr "Resultados del cuestionario"
+
+#: inc/cpt.php:34
+msgid "Edit Result"
+msgstr "Editar Resultado"
+
+#: inc/cpt.php:35
+#, fuzzy
+msgid "You did not create any Result yet"
+msgstr "No ha creado ningún resultado todavía"
+
+#: inc/cpt.php:36
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: inc/helpers.php:258
+#, fuzzy
+msgid "Your quizz has been sent successfully"
+msgstr "Tu quizz ha sido enviado exitosamente"
+
+#: inc/helpers.php:293
+#, fuzzy
+msgid "Obtaine Marks"
+msgstr "Marcas Obtaine"
+
+#: inc/helpers.php:295
+msgid "Percentage"
+msgstr "Porcentaje"
+
+#: inc/hooks.php:126
+#, fuzzy, php-format
+msgid ""
+"%s \n"
+" %s"
+msgstr "%s %s"
+
+#: inc/hooks.php:129
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/shortcodes.php:19
+#, fuzzy
+msgid "No form id found"
+msgstr "No se encontró ningún ID de formulario"
+
+#: inc/shortcodes.php:56
+#, fuzzy
+msgid "New information not saved. Do you wish to leave the page?"
+msgstr "Nueva información no guardada. ¿Desea abandonar la página?"
+
+#: templates/admin/add-questions.php:30 templates/admin/quiz-result.php:70
+msgid "Question"
+msgstr "Pregunta"
+
+#: templates/admin/add-questions.php:33
+msgid "Remove"
+msgstr "Eliminar"
+
+#: templates/admin/add-questions.php:36
+msgid "Slider"
+msgstr "Slider"
+
+#: templates/admin/add-questions.php:47
+#, fuzzy
+msgid "Enter Question"
+msgstr "Introducir pregunta"
+
+#: templates/admin/add-questions.php:55
+#, fuzzy
+msgid "Enter Total Question Marks"
+msgstr "Introduzca las marcas de interrogación totales"
+
+#: templates/admin/add-questions.php:61
+#, fuzzy
+msgid "Question Description"
+msgstr "Descripción de la pregunta"
+
+#: templates/admin/add-questions.php:89
+msgid "Correct"
+msgstr "Correcto"
+
+#: templates/admin/add-questions.php:95
+msgid "Answer"
+msgstr "Respuesta"
+
+#: templates/admin/dashboard.php:15
+#, fuzzy
+msgid "WP Simple Quiz Dashboard"
+msgstr "WP simple quiz Dashboard"
+
+#: templates/admin/dashboard.php:21
+#, fuzzy
+msgid "Quiz Stat"
+msgstr "Estadísticas del cuestionario"
+
+#: templates/admin/dashboard.php:29
+msgid "Quiz Form"
+msgstr "Formulário de perguntas"
+
+#: templates/admin/dashboard.php:38
+#, fuzzy
+msgid "Attemp Quiz Users"
+msgstr "Usuarios de quiz de intentos"
+
+#: templates/admin/dashboard.php:52
+msgid "Quiz Name"
+msgstr "Nombre del concurso"
+
+#: templates/admin/dashboard.php:54
+#, fuzzy
+msgid "Submission User"
+msgstr "Usuario de envío"
+
+#: templates/admin/dashboard.php:56
+#, fuzzy
+msgid "Visibilty"
+msgstr "Visibilidad"
+
+#: templates/admin/dashboard.php:67
+#, fuzzy
+msgid "Not assign"
+msgstr "No asignar"
+
+#: templates/admin/dashboard.php:89
+#, fuzzy
+msgid "Result Stat"
+msgstr "Estadísticas de resultados"
+
+#: templates/admin/dashboard.php:96
+msgid "Members Name"
+msgstr "Nombre de los Miembros"
+
+#: templates/admin/dashboard.php:97
+#, fuzzy
+msgid "Submitted Quiz"
+msgstr "Cuestionario enviado"
+
+#: templates/admin/dashboard.php:99
+msgid "Submitted Date"
+msgstr "Fecha de que fuenenviado"
+
+#: templates/admin/quiz-form-alert.php:27
+msgid "Done"
+msgstr "Hecho"
+
+#: templates/admin/quiz-form-alert.php:35 templates/admin/quiz-form.php:54
+#, fuzzy
+msgid "Message:"
+msgstr "Mensaje de Correo electrónico"
+
+#: templates/admin/quiz-form-settings.php:32
+#, fuzzy
+msgid "You can show the result after submit the quiz for member"
+msgstr ""
+"Puede mostrar el resultado después de enviar el cuestionario para los "
+"miembros"
+
+#: templates/admin/quiz-form-settings.php:40
+#: templates/admin/quiz-form-settings.php:57
+#: templates/admin/quiz-form-settings.php:74
+msgid "Yes"
+msgstr "Si"
+
+#: templates/admin/quiz-form-settings.php:44
+#: templates/admin/quiz-form-settings.php:61
+#: templates/admin/quiz-form-settings.php:78
+msgid "No"
+msgstr "No"
+
+#: templates/admin/quiz-form-settings.php:48
+#, fuzzy
+msgid "Show Notice Field"
+msgstr "Mostrar campo de aviso"
+
+#: templates/admin/quiz-form-settings.php:49
+#, fuzzy
+msgid "Show notice field on frontend user write notice for admin"
+msgstr ""
+"Mostrar campo de aviso en el usuario front-end aviso de escritura para admin"
+
+#: templates/admin/quiz-form-settings.php:66
+#, fuzzy
+msgid "You can allow the time for each question"
+msgstr "Puede permitir el tiempo para cada pregunta"
+
+#: templates/admin/quiz-form-settings.php:82
+msgid "Time Limit"
+msgstr "Tiempo Límite"
+
+#: templates/admin/quiz-form-settings.php:83
+#, fuzzy
+msgid "Enter the time limit in seconds for each question"
+msgstr "Introduzca el límite de tiempo en segundos para cada pregunta"
+
+#: templates/admin/quiz-form-settings.php:89
+msgid "Redirect URL"
+msgstr "Redireccionar URL"
+
+#: templates/admin/quiz-form-settings.php:90
+#, fuzzy
+msgid "Redirect url after  form submit"
+msgstr "Redirigir URL después del formulario enviar"
+
+#: templates/admin/quiz-form-settings.php:98
+#, fuzzy
+msgid "You can select multiple or single answer for each question"
+msgstr "Puede seleccionar una respuesta múltiple o única para cada pregunta"
+
+#: templates/admin/quiz-form-settings.php:109
+#, fuzzy
+msgid "Quiz Visibility"
+msgstr "Visibilidad del cuestionario"
+
+#: templates/admin/quiz-form-settings.php:110
+#, fuzzy
+msgid "This quiz show only selected role."
+msgstr "Esta prueba muestra solo el rol seleccionado."
+
+#: templates/admin/quiz-form-style.php:21
+msgid "Header Color"
+msgstr "Color de Cabecera"
+
+#: templates/admin/quiz-form-style.php:22
+#, fuzzy
+msgid "Change the form header color"
+msgstr "Cambiar el color del encabezado del formulario"
+
+#: templates/admin/quiz-form-style.php:28
+#, fuzzy
+msgid "Form Color"
+msgstr "Color de la forma"
+
+#: templates/admin/quiz-form-style.php:29
+#, fuzzy
+msgid "Change the Question form background color"
+msgstr "Cambiar el color de fondo del formulario de pregunta"
+
+#: templates/admin/quiz-form-style.php:35
+msgid "Button Color"
+msgstr "Color del botón"
+
+#: templates/admin/quiz-form-style.php:36
+#, fuzzy
+msgid "Change the button background color"
+msgstr "Cambiar el color de fondo del botón"
+
+#: templates/admin/quiz-form-style.php:42
+#, fuzzy
+msgid "Button Label Color"
+msgstr "Color de etiqueta de botón"
+
+#: templates/admin/quiz-form-style.php:43
+#, fuzzy
+msgid "Change the button text color"
+msgstr "Cambiar el color del texto del botón"
+
+#: templates/admin/quiz-form-style.php:49
+#, fuzzy
+msgid "Select Answer Color"
+msgstr "Seleccionar color de respuesta"
+
+#: templates/admin/quiz-form-style.php:50
+#, fuzzy
+msgid "Change the selected answer color"
+msgstr "Cambiar el color de respuesta seleccionado"
+
+#: templates/admin/quiz-form-style.php:57
+msgid "Form Width"
+msgstr "Ancho de formulario"
+
+#: templates/admin/quiz-form-style.php:58
+#, fuzzy
+msgid "change the form width "
+msgstr "cambiar el ancho de la forma"
+
+#: templates/admin/quiz-form-style.php:65
+#, fuzzy
+msgid "Question Label Size"
+msgstr "Tamaño de la etiqueta de pregunta"
+
+#: templates/admin/quiz-form-style.php:66
+#, fuzzy
+msgid "Select font size for questions"
+msgstr "Seleccionar el tamaño de fuente para las preguntas"
+
+#: templates/admin/quiz-form.php:44 templates/admin/user-info.php:16
+msgid "User Name:"
+msgstr "Nombre de utilizador:"
+
+#: templates/admin/quiz-form.php:48 templates/admin/user-info.php:19
+msgid "User Email:"
+msgstr "Correo electrónico:"
+
+#: templates/admin/quiz-ins-settings.php:14
+#, fuzzy
+msgid "Instruction Before Quiz"
+msgstr "Instrucción antes del cuestionario"
+
+#: templates/admin/quiz-ins-settings.php:20
+#, fuzzy
+msgid "Write the instruction before quiz for member"
+msgstr "Escriba la instrucción antes de la prueba para el miembro"
+
+#: templates/admin/quiz-ins-settings.php:23
+#, fuzzy
+msgid "Message on Complete Quiz"
+msgstr "Mensaje en el cuestionario completo"
+
+#: templates/admin/quiz-ins-settings.php:29
+#, fuzzy
+msgid "Message show when all questions completed"
+msgstr "Mensaje mostrar cuando todas las preguntas completadas"
+
+#: templates/admin/quiz-ins-settings.php:32
+msgid "Submit Message"
+msgstr "Enviar mensaje"
+
+#: templates/admin/quiz-ins-settings.php:38
+#, fuzzy
+msgid "Message show when he submit information after quiz"
+msgstr "Mensaje muestra cuando envía información después del cuestionario"
+
+#: templates/admin/quiz-result-email.php:17
+msgid "Email Message"
+msgstr "Mensaje de Correo electrónico"
+
+#: templates/admin/quiz-result-email.php:18
+#, fuzzy
+msgid "send the email to user"
+msgstr "enviar el correo electrónico al usuario"
+
+#: templates/admin/quiz-result-email.php:25
+#, fuzzy
+msgid ""
+"You also send using these vars Quiz result: %OBTAINED_MARKS%, %TOTAL_MARKS%, "
+"%PERCENTAGE%, %RESULT_DATE%"
+msgstr ""
+"Usted también envía usando estos VARs resultado del cuestionario:% "
+"OBTAINED_MARKS%,% TOTAL_MARKS%,% porcentaje%,% RESULT_DATE%"
+
+#: templates/admin/quiz-result-email.php:30
+msgid "Email Subject"
+msgstr "Asunto del email"
+
+#: templates/admin/quiz-result-email.php:31
+#, fuzzy
+msgid "Emails subject to send in emails"
+msgstr "Correos electrónicos sujetos a enviar correos electrónicos"
+
+#: templates/admin/quiz-result-email.php:38
+#, fuzzy
+msgid "Enter Emails"
+msgstr "Ingrese correos electrónicos"
+
+#: templates/admin/quiz-result-email.php:39
+#, fuzzy
+msgid "enter multiple email separated by commas"
+msgstr "Escriba varios correos separados por comas"
+
+#: templates/admin/quiz-result-email.php:48
+msgid "Send"
+msgstr "Enviar"
+
+#: templates/admin/quiz-result.php:44
+msgid "Total Marks : "
+msgstr "Puntuación máxima: "
+
+#: templates/admin/quiz-result.php:47
+#, fuzzy
+msgid "Obtain Marks : "
+msgstr "Obtener marcas:"
+
+#: templates/admin/quiz-result.php:50
+#, fuzzy
+msgid "Percentage : "
+msgstr "Porcentaje"
+
+#: templates/admin/quiz-result.php:56
+#, fuzzy
+msgid "Time Elapsed : "
+msgstr "Tiempo transcurrido"
+
+#: templates/admin/quiz-result.php:62
+#, fuzzy
+msgid "Total Correct Question : "
+msgstr "Pregunta total correcta:"
+
+#: templates/admin/quiz-result.php:71
+#, fuzzy
+msgid "User Selected Answer"
+msgstr "Respuesta seleccionada por el usuario"
+
+#: templates/admin/quiz-result.php:72
+msgid "Correct Answers"
+msgstr "Respuesta correcta "
+
+#: templates/admin/quiz-result.php:73
+#, fuzzy
+msgid "Marks Obtains"
+msgstr "Marcas obtiene"
+
+#: templates/admin/quiz-result.php:76
+#, fuzzy
+msgid "Time Taken"
+msgstr "Tiempo tomado"
+
+#: templates/admin/quiz-result.php:129
+#, fuzzy
+msgid "Grand Total"
+msgstr "Total:"
+
+#: templates/admin/quiz-result.php:140
+#, fuzzy
+msgid "User Message:"
+msgstr "Mensaje de usuario:"
+
+#: templates/shortcodes/quiz-rander.php:85
+#, fuzzy
+msgid "Total Questions:"
+msgstr "Preguntas Totales"
+
+#: templates/shortcodes/quiz-rander.php:89
+msgid "Start"
+msgstr "Inicio"
+
+#: templates/shortcodes/quiz-rander.php:137
+#, fuzzy, php-format
+msgid "Please select %d answer"
+msgstr "Por favor, seleccione% d respuesta"
+
+#: templates/shortcodes/quiz-rander.php:161
+msgid "Next"
+msgstr "Siguiente"
+
+#: templates/shortcodes/quiz-rander.php:166
+#, fuzzy, php-format
+msgid "Question %d of %d"
+msgstr "Pregunta% d de% d"
+
+#: templates/shortcodes/quiz-rander.php:177
+msgid "Time: "
+msgstr "Tiempo: "
+
+#: templates/shortcodes/quiz-rander.php:178
+#, fuzzy
+msgid "0:00"
+msgstr "0:00"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "N-Media WP Simple Quiz"
+msgstr "N-media WP simple quiz"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "http://najeebmedia.com/"
+msgstr "http://najeebmedia.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Simple Wordpress Plugin to create Multiple Choice Questions."
+msgstr "Plugin de WordPress simple para crear preguntas de opción múltiple."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Najeeb Ahmad"
+msgstr "Najeeb Ahmad"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://www.najeebmedia.com/"
+msgstr "http://www.najeebmedia.com/"

@@ -1,0 +1,609 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: N-Media WP Simple Quiz\n"
+"POT-Creation-Date: 2020-06-19 23:33+0500\n"
+"PO-Revision-Date: 2019-01-02 19:47+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-simple-quiz.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin.php:17
+msgid "Enter Quiz Name"
+msgstr ""
+
+#: inc/admin.php:27
+msgid "Wordpress Simple Quiz"
+msgstr ""
+
+#: inc/admin.php:27
+msgid "WP Simple Quiz"
+msgstr ""
+
+#: inc/admin.php:28
+msgid "Quiz Result"
+msgstr ""
+
+#: inc/admin.php:28 inc/cpt.php:32
+msgid "Result"
+msgstr ""
+
+#: inc/admin.php:36 inc/classes/class.admin.php:123
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin.php:37 templates/admin/dashboard.php:53
+msgid "Total Questions"
+msgstr ""
+
+#: inc/admin.php:38 inc/helpers.php:314 templates/admin/dashboard.php:55
+#: templates/admin/quiz-result.php:73
+msgid "Total Marks"
+msgstr ""
+
+#: inc/admin.php:39 templates/admin/quiz-form-settings.php:97
+msgid "Answer Selection"
+msgstr ""
+
+#: inc/admin.php:40 templates/admin/quiz-form-settings.php:65
+msgid "Enable Time"
+msgstr ""
+
+#: inc/admin.php:41 templates/admin/quiz-form-settings.php:31
+msgid "Show Result"
+msgstr ""
+
+#: inc/admin.php:42
+msgid "Date"
+msgstr ""
+
+#: inc/admin.php:51 inc/admin.php:52 inc/admin.php:53
+msgid "Pro Feature"
+msgstr ""
+
+#: inc/admin.php:65 templates/admin/quiz-form-settings.php:104
+msgid "Single Answers"
+msgstr ""
+
+#: inc/admin.php:67 templates/admin/quiz-form-settings.php:106
+msgid "Multiple Answers"
+msgstr ""
+
+#: inc/admin.php:76 templates/admin/quiz-form-id.php:12
+#, php-format
+msgid "[wqt-question id=\"%s\"]"
+msgstr ""
+
+#: inc/admin.php:101
+msgid "Marks & Percentage"
+msgstr ""
+
+#: inc/admin.php:102
+msgid "Total Correct Question"
+msgstr ""
+
+#: inc/admin.php:103
+msgid "Time Elapsed"
+msgstr ""
+
+#: inc/admin.php:104 inc/classes/class.admin.php:289
+#: templates/admin/dashboard.php:98
+msgid "User Info"
+msgstr ""
+
+#: inc/admin.php:105
+msgid "Form Name"
+msgstr ""
+
+#: inc/admin.php:115
+msgid "PRO VERSION"
+msgstr ""
+
+#: inc/classes/class.admin.php:76
+msgid "Result Send Via Email"
+msgstr ""
+
+#: inc/classes/class.admin.php:98 templates/admin/add-questions.php:120
+msgid "Add Questions"
+msgstr ""
+
+#: inc/classes/class.admin.php:149
+msgid "Quiz Style"
+msgstr ""
+
+#: inc/classes/class.admin.php:175
+msgid "Quiz messages"
+msgstr ""
+
+#: inc/classes/class.admin.php:196
+msgid "Submit Members"
+msgstr ""
+
+#: inc/classes/class.admin.php:219
+msgid "Quiz Settings"
+msgstr ""
+
+#: inc/classes/class.admin.php:242
+msgid "View Result"
+msgstr ""
+
+#: inc/classes/class.admin.php:268
+msgid "Send Result Via Email"
+msgstr ""
+
+#: inc/classes/class.admin.php:310
+msgid "Print Result"
+msgstr ""
+
+#: inc/cpt.php:13 inc/cpt.php:14
+msgid "Quiz"
+msgstr ""
+
+#: inc/cpt.php:15
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt.php:16
+msgid "Add New Quiz"
+msgstr ""
+
+#: inc/cpt.php:17
+msgid "Edit Quiz"
+msgstr ""
+
+#: inc/cpt.php:18
+msgid "You did not create any Quiz yet"
+msgstr ""
+
+#: inc/cpt.php:19
+msgid "Search Quiz"
+msgstr ""
+
+#: inc/cpt.php:31
+msgid "Quiz Results"
+msgstr ""
+
+#: inc/cpt.php:34
+msgid "Edit Result"
+msgstr ""
+
+#: inc/cpt.php:35
+msgid "You did not create any Result yet"
+msgstr ""
+
+#: inc/cpt.php:36
+msgid "Search Results"
+msgstr ""
+
+#: inc/helpers.php:262
+msgid "Your quizz has been sent successfully"
+msgstr ""
+
+#: inc/helpers.php:313 templates/admin/quiz-result.php:72
+msgid "Obtained Marks"
+msgstr ""
+
+#: inc/helpers.php:315
+msgid "Percentage Marks"
+msgstr ""
+
+#: inc/helpers.php:368
+msgid "Email Send Successfully!"
+msgstr ""
+
+#: inc/helpers.php:371
+msgid "Problem in server please chack!"
+msgstr ""
+
+#: inc/hooks.php:126
+#, php-format
+msgid ""
+"%s \n"
+" %s"
+msgstr ""
+
+#: inc/hooks.php:129
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/shortcodes.php:19
+msgid "No form id found"
+msgstr ""
+
+#: inc/shortcodes.php:58
+msgid "New information not saved. Do you wish to leave the page?"
+msgstr ""
+
+#: templates/admin/add-questions.php:30
+msgid "Question"
+msgstr ""
+
+#: templates/admin/add-questions.php:33
+msgid "Remove"
+msgstr ""
+
+#: templates/admin/add-questions.php:36
+msgid "Slider"
+msgstr ""
+
+#: templates/admin/add-questions.php:47
+msgid "Enter Question"
+msgstr ""
+
+#: templates/admin/add-questions.php:55
+msgid "Enter Total Question Marks"
+msgstr ""
+
+#: templates/admin/add-questions.php:61
+msgid "Question Description"
+msgstr ""
+
+#: templates/admin/add-questions.php:89
+msgid "Correct"
+msgstr ""
+
+#: templates/admin/add-questions.php:95
+msgid "Answer"
+msgstr ""
+
+#: templates/admin/dashboard.php:15
+msgid "WP Simple Quiz Dashboard"
+msgstr ""
+
+#: templates/admin/dashboard.php:21
+msgid "Quiz Stat"
+msgstr ""
+
+#: templates/admin/dashboard.php:29
+msgid "Quiz Form"
+msgstr ""
+
+#: templates/admin/dashboard.php:38
+msgid "Attemp Quiz Users"
+msgstr ""
+
+#: templates/admin/dashboard.php:52
+msgid "Quiz Name"
+msgstr ""
+
+#: templates/admin/dashboard.php:54
+msgid "Submission User"
+msgstr ""
+
+#: templates/admin/dashboard.php:56
+msgid "Visibilty"
+msgstr ""
+
+#: templates/admin/dashboard.php:67
+msgid "Not assign"
+msgstr ""
+
+#: templates/admin/dashboard.php:89
+msgid "Result Stat"
+msgstr ""
+
+#: templates/admin/dashboard.php:96
+msgid "Members Name"
+msgstr ""
+
+#: templates/admin/dashboard.php:97
+msgid "Submitted Quiz"
+msgstr ""
+
+#: templates/admin/dashboard.php:99
+msgid "Submitted Date"
+msgstr ""
+
+#: templates/admin/quiz-form-alert.php:27
+msgid "Done"
+msgstr ""
+
+#: templates/admin/quiz-form-alert.php:35 templates/admin/quiz-form.php:54
+msgid "Message:"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:32
+msgid "You can show the result after submit the quiz for member"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:40
+#: templates/admin/quiz-form-settings.php:57
+#: templates/admin/quiz-form-settings.php:74
+#: templates/admin/student-result-send.php:37
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:44
+#: templates/admin/quiz-form-settings.php:61
+#: templates/admin/quiz-form-settings.php:78
+#: templates/admin/student-result-send.php:41
+msgid "No"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:48
+msgid "Show Notice Field"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:49
+msgid "Show notice field on frontend user write notice for admin"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:66
+msgid "You can allow the time for each question"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:82
+msgid "Time Limit"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:83
+msgid "Enter the time limit in seconds for each question"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:89
+msgid "Redirect URL"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:90
+msgid "Redirect url after  form submit"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:98
+msgid "You can select multiple or single answer for each question"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:109
+msgid "Quiz Visibility"
+msgstr ""
+
+#: templates/admin/quiz-form-settings.php:110
+msgid "This quiz show only selected role."
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:21
+msgid "Header Color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:22
+msgid "Change the form header color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:28
+msgid "Form Color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:29
+msgid "Change the Question form background color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:35
+msgid "Button Color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:36
+msgid "Change the button background color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:42
+msgid "Button Label Color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:43
+msgid "Change the button text color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:49
+msgid "Select Answer Color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:50
+msgid "Change the selected answer color"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:57
+msgid "Form Width"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:58
+msgid "change the form width "
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:65
+msgid "Question Label Size"
+msgstr ""
+
+#: templates/admin/quiz-form-style.php:66
+msgid "Select font size for questions"
+msgstr ""
+
+#: templates/admin/quiz-form.php:44 templates/admin/user-info.php:16
+msgid "User Name:"
+msgstr ""
+
+#: templates/admin/quiz-form.php:48 templates/admin/user-info.php:19
+msgid "User Email:"
+msgstr ""
+
+#: templates/admin/quiz-ins-settings.php:14
+msgid "Instruction Before Quiz"
+msgstr ""
+
+#: templates/admin/quiz-ins-settings.php:20
+msgid "Write the instruction before quiz for member"
+msgstr ""
+
+#: templates/admin/quiz-ins-settings.php:23
+msgid "Message on Complete Quiz"
+msgstr ""
+
+#: templates/admin/quiz-ins-settings.php:29
+msgid "Message show when all questions completed"
+msgstr ""
+
+#: templates/admin/quiz-ins-settings.php:32
+msgid "Submit Message"
+msgstr ""
+
+#: templates/admin/quiz-ins-settings.php:38
+msgid "Message show when he submit information after quiz"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:17
+#: templates/admin/student-result-send.php:56
+msgid "Email Message"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:18
+#: templates/admin/student-result-send.php:57
+msgid "send the email to user"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:25
+msgid ""
+"You also send using these vars Quiz result: %OBTAINED_MARKS%, %TOTAL_MARKS%, "
+"%PERCENTAGE%, %RESULT_DATE%"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:30
+#: templates/admin/student-result-send.php:46
+msgid "Email Subject"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:31
+#: templates/admin/student-result-send.php:47
+msgid "Emails subject to send in emails"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:38
+msgid "Enter Emails"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:39
+msgid "enter multiple email separated by commas"
+msgstr ""
+
+#: templates/admin/quiz-result-email.php:48
+msgid "Send"
+msgstr ""
+
+#: templates/admin/quiz-result.php:43
+msgid "Total Marks : "
+msgstr ""
+
+#: templates/admin/quiz-result.php:46
+msgid "Obtained Marks : "
+msgstr ""
+
+#: templates/admin/quiz-result.php:49
+msgid "Percentage Marks : "
+msgstr ""
+
+#: templates/admin/quiz-result.php:55
+msgid "Time Elapsed : "
+msgstr ""
+
+#: templates/admin/quiz-result.php:61
+msgid "Total Correct Answers : "
+msgstr ""
+
+#: templates/admin/quiz-result.php:69
+msgid "Questions"
+msgstr ""
+
+#: templates/admin/quiz-result.php:70
+msgid "User Selected Answers"
+msgstr ""
+
+#: templates/admin/quiz-result.php:71
+msgid "Correct Answers"
+msgstr ""
+
+#: templates/admin/quiz-result.php:75
+msgid "Time Taken"
+msgstr ""
+
+#: templates/admin/quiz-result.php:128
+msgid "Grand Total"
+msgstr ""
+
+#: templates/admin/quiz-result.php:139
+msgid "User Message:"
+msgstr ""
+
+#: templates/admin/student-result-send.php:28
+msgid "Result Send"
+msgstr ""
+
+#: templates/admin/student-result-send.php:29
+msgid "Quiz result will be sent in email after quiz submission"
+msgstr ""
+
+#: templates/admin/student-result-send.php:64
+msgid ""
+"You also send using these vars Quiz result: %DISPLAY_NAME%, %OBTAINED_MARKS"
+"%, %TOTAL_MARKS%, %PERCENTAGE%, %RESULT_DATE%"
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:85
+msgid "Total Questions:"
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:89
+msgid "Start"
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:137
+#, php-format
+msgid "Please select %d answer"
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:161
+msgid "Next"
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:166
+#, php-format
+msgid "Question %d of %d"
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:177
+msgid "Time: "
+msgstr ""
+
+#: templates/shortcodes/quiz-rander.php:178
+msgid "0:00"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "N-Media WP Simple Quiz"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://najeebmedia.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple Wordpress Plugin to create Multiple Choice Questions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Najeeb Ahmad"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.najeebmedia.com/"
+msgstr ""

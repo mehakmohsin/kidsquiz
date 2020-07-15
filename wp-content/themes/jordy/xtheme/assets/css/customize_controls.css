@@ -1,0 +1,79 @@
+#customize-controls .control-section-document .accordion-section-title:hover,
+#customize-controls .control-section-document .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-document .accordion-section-title .button {
+	margin-top: -4px;
+	margin-left: 8px;
+	font-weight: 400;
+}
+
+.rtl .control-section-document .accordion-section-title .button {
+	margin-right: 8px;
+	margin-left: 0;
+}
+
+.xtheme-upsell {
+	padding: 21px;
+	border-radius: 3px;
+	background: #fff;
+	margin: 0 12px;
+}
+
+.xtheme-upsell .upsell-pro-label {
+	margin-right: 10px;
+	padding: 2px 6px 2px 7px;
+	border-radius: 3px;
+	background: #a7a7a7;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: .1px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.xtheme-upsell-features li {
+	margin-bottom: 23px;
+	font-size: 14px;
+}
+
+.xtheme-upsell-features li:last-child {
+	margin-bottom: 28px;
+}
+
+.xtheme-upsell .button {
+	margin-right: 21px;
+	width: 100%;
+	text-align: center;
+	letter-spacing: .2px;
+}
+
+.xtheme-upsell hr {
+	margin-top: 22px;
+	margin-bottom: 16px;
+}
+
+.xtheme-upsell-feature-list li:before {
+	line-height: 37px;
+}
+
+.xtheme-upsell-feature-list li {
+	margin-bottom: 6px;
+	font-style: italic;
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.xtheme-upsell-feature-list li:last-child {
+	margin-bottom: 0;
+}
+
+#customize-controls #accordion-section-hestia_theme_info_main_section.control-section .accordion-section-title:hover {
+	background-color: #0073aa;
+	color: #fff;
+}
+
+#customize-controls #accordion-section-hestia_theme_info_main_section.control-section .accordion-section-title:hover:after {
+	color: #fff;
+}
